@@ -30,8 +30,21 @@ My hobbies include
 
 ## Persons of Interest
 
-- [David Goggins][1] <img src="https://github.com/EthanStevenson/AboutMe/blob/main/img/DavidGoggins.jpg" height="100x" width="200px"
-- [Elon Musk][2]
+[David Goggins][1]<br>
+<kbd>
+<img src="https://github.com/EthanStevenson/AboutMe/blob/main/img/DavidGoggins.jpg" height="300x" width="200px">
+  </kbd><br>
+[Elon Musk][2]<br>
+<kbd>
+<img src="https://github.com/EthanStevenson/AboutMe/blob/main/img/ElonMusk.jpg" height="200x" width="200px">
+  </kbd>
+
+## Favorite Terms
+
+| Terms | Definitions | My Meaning |
+| :- | :----: | ---: |  
+| Meme | an image, video, piece of text, etc. that is copied and spread rapidly by internet users | A funny video or picture |
+| Pineapple | a large juicy tropical fruit | A yummy fruit |
 
 [1]: https://en.wikipedia.org/wiki/David_Goggins
 [2]: https://en.wikipedia.org/wiki/Elon_Musk
