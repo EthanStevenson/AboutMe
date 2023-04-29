@@ -30,8 +30,7 @@ My hobbies include
 
 ## Persons of Interest
 
-- [David Goggins][1]
-<img src="https://github.com/EthanStevenson/AboutMe/blob/main/img/DavidGoggins.jpg" height="100x" width="200px"
+- [David Goggins][1] <img src="https://github.com/EthanStevenson/AboutMe/blob/main/img/DavidGoggins.jpg" height="100x" width="200px"
 - [Elon Musk][2]
 
 [1]: https://en.wikipedia.org/wiki/David_Goggins
